@@ -1,0 +1,5 @@
+Requirements
+1. !pip install speechrecognition
+2. !pip install pydub
+3. !pip install ffmpeg
+4. !pip install Pyaudio
